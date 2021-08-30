@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NeBeWu
+- 👋 Hi, I’m Pedro
 - 👀 I’m interested in mathematics, languages and programming.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on nonthing yet.
