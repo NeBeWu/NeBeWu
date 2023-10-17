@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pedro
-- 👀 I’m interested in mathematics, languages and programming.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on nothing yet.
+- 👀 I’m interested in mathematics, computer science and languages.
+- 🌱 I’m currently studying web development.
+- 💞️ I’m looking to collaborate on anything.
 - 📫 You can reach me at nebewu@gmail.com
 
 <!---
